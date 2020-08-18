@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Sidorov 19580.45
+Kozlov 45126.16
+Danilov 12578.10
+Petrov 52879.50
+Sobakin 85421.10
+Koshkin 16985.78
+Bikov 45789.54
+Myshin 65432.21
+Zaitcev 32165.98
